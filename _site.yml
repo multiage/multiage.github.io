@@ -1,0 +1,21 @@
+name: "mywebpage"  
+author: "Charlotte Shaw & Zlati Ilchovska"  
+output_dir: "docs"  
+output:  
+  html_document: 
+    self_contained: no  
+    theme: default
+    css: style.css
+navbar:  
+  title: "<img src='Logo_navbar.jpg' alt='Logo' style='width: 200px; height: 75px;'> "
+  right:
+  - text: "About the project"
+    href: index.html
+  - text: "Participate"
+    href: participate.html
+  - text: "Meet the team"
+    href: team.html
+  - text: "Activities and publications"
+    href: outputs.html
+  - text: "Contacts"
+    href: contacts.html
