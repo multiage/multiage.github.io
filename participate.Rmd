@@ -28,13 +28,15 @@ If you decide to take part, we will schedule an appointment with you, choosing a
 
 Here is also a video explanation of the study, in your languages (click on image to open in new window on YouTube): 
 
-*For Pahari-Pothwari/Mirpuri:*
+**For Pahari-Pothwari/Mirpuri:**
+
 <a href="https://www.youtube.com/watch?v=HZkDwWFoiQE" target="_blank">
     <img src="https://img.youtube.com/vi/HZkDwWFoiQE/0.jpg" alt="YouTube video thumbnail" width="440" height="300">
 </a>
 &nbsp;
 
-*For Panjabi/Punjabi:*
+**For Panjabi/Punjabi:**
+
 <a href="https://www.youtube.com/watch?v=EGhmGUd-VMY" target="_blank">
     <img src="https://img.youtube.com/vi/EGhmGUd-VMY/0.jpg" alt="YouTube video thumbnail" width="440" height="300">
 </a>
