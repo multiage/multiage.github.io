@@ -2,7 +2,9 @@ name: "mywebpage"
 author: "Charlotte Shaw & Zlati Ilchovska"  
 output_dir: "docs"  
 output:  
-  html_document: 
+  html_document:
+    includes:
+      in_header: google8e39615ae1faa75f.html
     self_contained: no  
     theme: default
     css: style.css
