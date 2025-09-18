@@ -1,3 +1,6 @@
+<head>
+  <meta name="description" content="The MultiAge multilingualism and ageing project (University of York) studies language use and switching with ageing.">
+</head>
 &nbsp;
 
 &nbsp;
