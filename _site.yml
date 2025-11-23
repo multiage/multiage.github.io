@@ -1,5 +1,5 @@
 name: "mywebpage"  
-author: "Charlotte Shaw & Zlati Ilchovska"  
+author: "Zlati Ilchovska"  
 output_dir: "docs"  
 output:  
   html_document:
@@ -11,13 +11,15 @@ output:
 navbar:  
   title: "<img src='Logo_navbar.jpg' alt='Logo' style='width: 200px; height: 75px;'> "
   right:
-  - text: "About the project"
+  - text: "About"
     href: index.html
-  - text: "Participate"
-    href: participate.html
-  - text: "Meet the team"
+  - text: "Participate (ageing)"
+    href: participate-1.html
+  - text: "Participate (cognitive impairment)" 
+    href: participate-2.html
+  - text: "Our team"
     href: team.html
-  - text: "Activities and publications"
+  - text: "Outreach & publications"
     href: outputs.html
   - text: "Contacts"
     href: contacts.html
