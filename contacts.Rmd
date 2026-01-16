@@ -30,5 +30,5 @@ York, YO10 5DD <br>
 </div>
 
 <div align="justify">
-<img src="E:/UoYork/Project/Website/mywebsitepage/UoY_logo.png"  width="30%" height="30%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/UoY_logo.png"  width="30%" height="30%">
 </div>

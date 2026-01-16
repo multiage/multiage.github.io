@@ -17,7 +17,7 @@ Angela is currently a Senior Lecturer in the Department of Psychology at the Uni
 </div>
 
 <div align="center">
-<img src="E:/UoYork/Project/Website/mywebsitepage/angeladebruin.jpg"  width="30%" height="30%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/angeladebruin.jpg"  width="30%" height="30%">
 </div>
 &nbsp;
 
@@ -30,7 +30,7 @@ Zlati is a postdoctoral researcher in the Department of Psychology, University o
 </div>
 
 <div align="center">
-<img src="E:/UoYork/Project/Website/mywebsitepage/zlatomiragilchovska.png"  width="35%" height="35%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/zlatomiragilchovska.png"  width="35%" height="35%">
 </div>
 &nbsp;
 
@@ -43,7 +43,7 @@ Farah completed her UG degree in English language, as well as an MA and PhD (201
 </div>
 
 <div align="center">
-<img src="E:/UoYork/Project/Website/mywebsitepage/farahnazir.jpeg"  width="30%" height="30%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/farahnazir.jpeg"  width="30%" height="30%">
 </div>
 &nbsp;
 
@@ -56,7 +56,7 @@ Imran is currently Research Project Coordinator on the MultiAge project. He comp
 </div>
 
 <div align="center">
-<img src="E:/UoYork/Project/Website/mywebsitepage/imranarif.jpg"  width="30%" height="30%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/imranarif.jpg"  width="30%" height="30%">
 </div>
 &nbsp;
 
@@ -69,7 +69,7 @@ Aishah is a psychotherapist who completed her postgraduate diploma in Transactio
 </div>
 
 <div align="center">
-<img src="E:/UoYork/Project/Website/mywebsitepage/aishahmalik.jpg"  width="30%" height="30%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/aishahmalik.jpg"  width="30%" height="30%">
 </div>
 &nbsp;
 

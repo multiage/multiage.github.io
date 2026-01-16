@@ -21,10 +21,10 @@ MultiAge is led by Dr Angela de Bruin, based at the University of York. Please s
 
 Multiage is funded by the UKRI as part of the Horizon Europe guarantee scheme for selected ERC grants (Grant number: EP/Y036522/1). 
 <div align="center">
-<img src="E:/UoYork/Project/Website/mywebsitepage/UKRIlogo.png"  width="30%" height="30%"> <img src="E:/UoYork/Project/Website/mywebsitepage/ERClogo.jpg"  width="20%" height="20%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/UKRIlogo.png"  width="30%" height="30%"> <img src="D:/UoYork/Project/Website/mywebsitepage/ERClogo.jpg"  width="20%" height="20%">
 &nbsp;
 
 &nbsp;
 
-<img src="E:/UoYork/Project/Website/mywebsitepage/WebsiteLogo.png"  width="70%" height="70%">
+<img src="D:/UoYork/Project/Website/mywebsitepage/WebsiteLogo.png"  width="70%" height="70%">
 </div>
